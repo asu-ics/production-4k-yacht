@@ -18,6 +18,11 @@
 		{
 			"Name": "NiagaraFluids",
 			"Enabled": true
+		},
+		{
+			"Name": "MotionPlatformLinker",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e462c475232f4fd89fa814cb0595a263"
 		}
 	]
 }
